@@ -1,16 +1,15 @@
-### Hi there 👋
+# Khashi
+what's going on here???
 
-<!--
-**KhshyrK/KhshyrK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hmmm let me see!!!
 
-Here are some ideas to get you started:
+## Medium heading
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**this text is in underline**
+
+* this text italics and bold*
+
+  [Click here for what's going on](https://www.youtube.com/watch?v=ApthDWoPMFQ)
+
+  ![Here is a what's going on](https://en.wikipedia.org/wiki/What%27s_Going_On_%28Marvin_Gaye_album%29#/media/File:MarvinGayeWhat'sGoingOnalbumcover.jpg)
+  
