@@ -7,7 +7,7 @@ Hmmm let me see!!!
 
 **this text is in underline**
 
-*this text italics and bold*
+***this text italics and bold***
 
   [Click here for what's going on](https://www.youtube.com/watch?v=ApthDWoPMFQ)
 
